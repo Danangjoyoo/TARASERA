@@ -1,0 +1,15 @@
+Note:
+Run uninstall001.exe to uninstall all the files from your device!
+After Uninstall finished, you can delete the remaining files!
+
+OR
+
+It's not registered on windows registry key.
+If you just delete the whole files inside installation folder, it'll be OK!
+It free dump files. Good Luck!
+
+SUPPORT US ON INSTAGRAM @tarasera.tara
+
+For more useless software visits: tarasera.org
+
+Next project is: "Bentenk! But RTX ON!"
